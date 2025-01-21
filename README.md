@@ -1,4 +1,4 @@
-## terraform-examples
+## Exemplos DevOps
 
 Monorepo - Exemplos de Infraestrutura como código utilizando Terraform
 
